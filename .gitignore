@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache
+*.pytest_cache/
+*.mypy_cache/
+*.vscode/
+*.idea/
+*.env
+.env/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / Editor
+*.sublime-project
+*.sublime-workspace
+
+# PyInstaller / Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Configs / Secrets
+core/config.json
+config.json
+
+# Generated files
+*.pyc
+
+# Virtual environment
+myenv/
